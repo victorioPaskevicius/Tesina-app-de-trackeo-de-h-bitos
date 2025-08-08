@@ -1,4 +1,4 @@
-# Cómo hicimos la app de hábitos: De la idea al código
+# Cómo hicimos Habit-TRAKET
 
 ## Índice
 
@@ -9,7 +9,6 @@
 5. Problemas y cómo los sorteamos
 6. Cierre y aprendizajes
 
----
 
 ## 1. Un poco de contexto
 
@@ -29,7 +28,6 @@ Lo que sí o sí tenía que tener:
 
 No nos volvimos locos con cosas raras: preferimos empezar simple y después, si daba, agregar más.
 
----
 
 ## 3. Diseño: ¿Cómo se ve y cómo funciona?
 
